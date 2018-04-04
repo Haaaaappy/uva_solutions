@@ -27,7 +27,7 @@ Note “full house” combines with “three of a kind” and “pair” logical
 
 The same with “straight flush”, “straight”, “flush” and so on.
 
-### Life Forms
+## Life Forms
 
 Basic data structures used here are `suffix array (SA)` and `height array (HA)`. 
 
